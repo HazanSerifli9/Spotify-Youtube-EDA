@@ -9,7 +9,9 @@ This project explores and analyzes data from Spotify and YouTube, focusing on un
 Contents
 
 Data Description: Details about the dataset and its features.
+
 Exploratory Data Analysis (EDA): Initial findings and insights into Spotify and YouTube data trends.
+
 Visualizations: Interactive charts and graphs highlighting key aspects of the data.
 
 
@@ -17,5 +19,7 @@ Dataset
 
 The dataset includes information such as:
 
+
 Spotify: Track names, artists, popularity, and audio features (e.g., danceability, tempo).
+
 YouTube: Video titles, channel names, views, likes, and engagement metrics.
